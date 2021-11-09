@@ -1,0 +1,8 @@
+! Instruction: https://github.com/JinnLynn/genpac/blob/master/sample/user-rules.txt
+test.test							! for test purpose only
+
+!@@gstatic.com				! for Google Drive & Google Doc, it occasionally works only with proxy and only with not proxy...
+@@iqiyi.com
+slack.com
+npmtrends.com
+reactjs.org

@@ -1,0 +1,52 @@
+name: Publish
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  push:
+    branches:
+      - master
+    paths:
+      - 'user-rules.txt'
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'There has to be an input'
+        required: false
+        default: 'balabala'
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -U genpac
+      - name: Install modules
+        run: |
+          git submodule update --init
+          for i in gfwlist genpac
+          do
+          	(cd $i;git pull origin master)
+          done
+      - name: Build
+        run: |
+          genpac \
+          --pac-proxy "PROXY 172.16.0.33:1080;DIRECT;" \
+          --gfwlist-url - \
+          --gfwlist-local gfwlist/gfwlist.txt \
+          --user-rule-from user-rules.txt \
+          -o gfwlist.pac
+          sed -e '5d' -e '3d' -i gfwlist.pac
+      - name: Commit update
+        run: |
+          git config --global user.name 'Wayne Mao'
+          git config --global user.email 'helloint@users.noreply.github.com'
+          git add .
+          git commit -am "[`date +'%Y-%m-%d %H:%M:%S'`] auto update"
+          git push
