@@ -1,13 +1,19 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-11-02 00:10:37
+ * GFWList Last-Modified: 2021-11-01 16:10:37
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'PROXY 172.16.0.33:1080;DIRECT;';
 var rules = [
     [
-        [],
-        []
+        [
+            "iqiyi.com"
+        ],
+        [
+            "npmtrends.com",
+            "reactjs.org",
+            "slack.com"
+        ]
     ],
     [
         [
