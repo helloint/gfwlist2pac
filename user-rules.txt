@@ -3,6 +3,7 @@ test.test							! for test purpose only
 
 !@@gstatic.com				! for Google Drive & Google Doc, it occasionally works only with proxy and only with not proxy...
 @@iqiyi.com
+watchnba.cdnfastly.endeavorstreaming.net
 slack.com
 npmtrends.com
 reactjs.org
