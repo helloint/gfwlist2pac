@@ -10,6 +10,7 @@ var rules = [
             "iqiyi.com"
         ],
         [
+            "endeavorstreaming.net",
             "npmtrends.com",
             "reactjs.org",
             "slack.com"
