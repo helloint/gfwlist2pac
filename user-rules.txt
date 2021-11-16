@@ -2,7 +2,7 @@
 ! for Google Drive & Google Doc, 'gstatic.com' occasionally works only with proxy and only with not proxy...
 test.test							! for test purpose only
 
-@@gstatic.com
+!@@gstatic.com
 @@iqiyi.com
 watchnba.cdnfastly.endeavorstreaming.net
 slack.com
