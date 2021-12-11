@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-12-02 14:07:18
+ * GFWList Last-Modified: 2021-12-10 18:38:34
  */
 
 var proxy = 'PROXY 172.16.0.33:4780;DIRECT;';
@@ -1301,6 +1301,7 @@ var rules = [
             "dlsite.jp",
             "dlyoutube.com",
             "dm530.net",
+            "dmc.nico",
             "dmcdn.net",
             "dmhy.org",
             "dmm.co.jp",
