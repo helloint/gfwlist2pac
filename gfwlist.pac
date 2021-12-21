@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-12-17 14:11:48
+ * GFWList Last-Modified: 2021-12-20 18:03:28
  */
 
 var proxy = 'PROXY 172.16.0.33:4780;DIRECT;';
@@ -4271,6 +4271,7 @@ var rules = [
             "rule34.xxx",
             "runbtx.com",
             "rushbee.com",
+            "rusvpn.com",
             "ruten.com.tw",
             "rutube.ru",
             "ruyiseek.com",
