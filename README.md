@@ -1,6 +1,6 @@
 # gfwlist2pac
-`gfwlist.pac` will be published immediately when `user-rules.txt` updated,
-and also once a day to keep `gfwlist` up to date.
+`gfwlist.pac` will be published immediately when user rules (`user-rules.txt`) or proxy server (in `.github/workflows/ci.yml`) updated,
+or check `gfwlist` once a day to keep up to date.
 
 ## How to use
 1. Just reference the PAC file: https://raw.githubusercontent.com/helloint/gfwlist2pac/master/gfwlist.pac
