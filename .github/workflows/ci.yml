@@ -38,7 +38,7 @@ jobs:
       - name: Build
         run: |
           genpac \
-          --pac-proxy "PROXY 172.16.0.33:4780; PROXY 172.16.0.33:1080; DIRECT" \
+          --pac-proxy "PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT" \
           --gfwlist-url - \
           --gfwlist-local gfwlist/gfwlist.txt \
           --user-rule-from user-rules.txt \
