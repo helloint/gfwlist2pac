@@ -3,7 +3,7 @@
  * GFWList Last-Modified: 2021-12-20 18:03:28
  */
 
-var proxy = 'PROXY 172.16.0.33:4780; PROXY 172.16.0.33:1080; DIRECT';
+var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
 var rules = [
     [
         [
