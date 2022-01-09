@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-12-29 15:31:35
+ * GFWList Last-Modified: 2022-01-08 18:30:03
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -31,7 +31,6 @@ var rules = [
             "df.gov.tw",
             "eastcoast-nsa.gov.tw",
             "erv-nsa.gov.tw",
-            "gravatar.com",
             "grb.gov.tw",
             "haosou.com",
             "haygo.com",
@@ -701,6 +700,7 @@ var rules = [
             "books.com.tw",
             "booktopia.com.au",
             "boomssr.com",
+            "borgenmagazine.com",
             "bot.nu",
             "botanwang.com",
             "bowenpress.com",
@@ -862,7 +862,6 @@ var rules = [
             "cdef.org",
             "cdig.info",
             "cdjp.org",
-            "cdn-apple.com",
             "cdnews.com.tw",
             "cdninstagram.com",
             "cdp1989.org",
@@ -2308,6 +2307,7 @@ var rules = [
             "grangorz.org",
             "graphis.ne.jp",
             "graphql.org",
+            "gravatar.com",
             "greasespot.net",
             "great-firewall.com",
             "great-roc.org",
@@ -3102,6 +3102,7 @@ var rules = [
             "linuxtoy.org",
             "lionsroar.com",
             "lipuman.com",
+            "liquiditytp.com",
             "liquidvpn.com",
             "list-manage.com",
             "listennotes.com",
@@ -3575,6 +3576,7 @@ var rules = [
             "newstamago.com",
             "newstapa.org",
             "newstarnet.com",
+            "newstatesman.com",
             "newsweek.com",
             "newtaiwan.com.tw",
             "newtalk.tw",
@@ -3743,6 +3745,7 @@ var rules = [
             "okk.tw",
             "olabloga.pl",
             "old-cat.net",
+            "olevod.com",
             "olumpo.com",
             "olympicwatch.org",
             "omgili.com",
@@ -3982,6 +3985,7 @@ var rules = [
             "poloniex.com",
             "polymer-project.org",
             "polymerhk.com",
+            "poolin.com",
             "popo.tw",
             "popvote.hk",
             "popxi.click",
@@ -4209,6 +4213,7 @@ var rules = [
             "relaxbbs.com",
             "relay.com.tw",
             "releaseinternational.org",
+            "religionnews.com",
             "religioustolerance.org",
             "renminbao.com",
             "renyurenquan.org",
