@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-01-10 23:23:31
+ * GFWList Last-Modified: 2022-01-21 21:44:46
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
