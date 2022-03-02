@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-02-23 18:03:12
+ * GFWList Last-Modified: 2022-03-01 16:56:35
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -3747,6 +3747,7 @@ var rules = [
             "okayfreedom.com",
             "okex.com",
             "okk.tw",
+            "okx.com",
             "olabloga.pl",
             "old-cat.net",
             "olevod.com",
