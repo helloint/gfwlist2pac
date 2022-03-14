@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-03-12 03:16:06
+ * GFWList Last-Modified: 2022-03-13 04:32:43
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -732,6 +732,7 @@ var rules = [
             "breakwall.net",
             "briefdream.com",
             "briian.com",
+            "brill.com",
             "brizzly.com",
             "brkmd.com",
             "broadbook.com",
