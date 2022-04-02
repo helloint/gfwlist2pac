@@ -7,6 +7,7 @@ var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
 var rules = [
     [
         [
+            "baidu.com",
             "iqiyi.com"
         ],
         [
