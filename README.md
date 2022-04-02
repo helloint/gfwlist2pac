@@ -3,8 +3,8 @@
 or check `gfwlist` once a day to keep up to date.
 
 ## How to use
-* GitHub Raw: https://raw.githubusercontent.com/helloint/gfwlist2pac/master/gfwlist.pac  (It will be blocked from GFW from time to time)
-* jsDelivr: https://cdn.jsdelivr.net/gh/helloint/gfwlist2pac@master/gfwlist.pac (It will download if you directly open the URL)
+* jsDelivr (preferred): https://cdn.jsdelivr.net/gh/helloint/gfwlist2pac@master/gfwlist.pac
+* GitHub Raw: https://raw.githubusercontent.com/helloint/gfwlist2pac/master/gfwlist.pac (It will be blocked from GFW from time to time)
 
 ## Instruction
 This repo is forked from `petronny/gfwlist2pac`, and I did some customization:
