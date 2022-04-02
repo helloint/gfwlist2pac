@@ -4,6 +4,7 @@ test.test							! for test purpose only
 
 !@@gstatic.com
 @@iqiyi.com
+@@baidu.com
 6vgood.com
 watchnba.cdnfastly.endeavorstreaming.net
 slack.com
