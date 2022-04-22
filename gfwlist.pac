@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-03-26 21:08:52
+ * GFWList Last-Modified: 2022-04-21 15:44:52
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -3794,6 +3794,7 @@ var rules = [
             "openervpn.in",
             "openid.net",
             "openleaks.org",
+            "opensea.io",
             "opensource.google",
             "opentech.fund",
             "openvpn.net",
