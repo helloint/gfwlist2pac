@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-05-21 17:51:40
+ * GFWList Last-Modified: 2022-05-22 04:32:24
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -3778,6 +3778,7 @@ var rules = [
             "onedumb.com",
             "onejav.com",
             "onion.city",
+            "onion.ly",
             "onlinecha.com",
             "onlineyoutube.com",
             "onlygayvideo.com",
@@ -5668,6 +5669,7 @@ var rules = [
             "workatruna.com",
             "workerdemo.org.hk",
             "workerempowerment.org",
+            "workers.dev",
             "workersthebig.net",
             "workflow.is",
             "worldcat.org",
