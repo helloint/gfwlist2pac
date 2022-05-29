@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-05-22 04:32:24
+ * GFWList Last-Modified: 2022-05-28 04:50:06
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -5542,6 +5542,7 @@ var rules = [
             "waymo.com",
             "wda.gov.tw",
             "wdf5.com",
+            "wealth.com.tw",
             "wearehairy.com",
             "wearn.com",
             "weather.com.hk",
@@ -5745,6 +5746,7 @@ var rules = [
             "xinbao.de",
             "xing.com",
             "xinhuanet.org",
+            "xinjiangpolicefiles.org",
             "xinmiao.com.hk",
             "xinsheng.net",
             "xinshijue.com",
