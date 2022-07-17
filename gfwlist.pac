@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-05-28 04:50:06
+ * GFWList Last-Modified: 2022-07-17 01:18:24
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -725,6 +725,7 @@ var rules = [
             "brave.com",
             "bravotube.net",
             "brazzers.com",
+            "breached.to",
             "break.com",
             "breakgfw.com",
             "breaking911.com",
@@ -763,6 +764,7 @@ var rules = [
             "bunbunhk.com",
             "busayari.com",
             "business-humanrights.org",
+            "business.page",
             "businessinsider.com",
             "businessinsider.com.au",
             "businesstoday.com.tw",
@@ -1721,6 +1723,7 @@ var rules = [
             "finler.net",
             "firearmsworld.net",
             "firebaseio.com",
+            "firefox.com",
             "fireofliberty.org",
             "firetweet.io",
             "firstfivefollowers.com",
@@ -4386,6 +4389,7 @@ var rules = [
             "sellclassics.com",
             "sendsmtp.com",
             "sendspace.com",
+            "sensortower.com",
             "seraph.me",
             "servehttp.com",
             "serveuser.com",
@@ -5679,6 +5683,7 @@ var rules = [
             "wow-life.net",
             "wow.com",
             "wowgirls.com",
+            "wowhead.com",
             "wowlegacy.ml",
             "wowporn.com",
             "wowrk.com",
