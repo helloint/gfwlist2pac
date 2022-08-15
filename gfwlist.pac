@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-07-17 01:18:24
+ * GFWList Last-Modified: 2022-08-14 16:21:11
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -380,7 +380,6 @@ var rules = [
             "annatam.com",
             "anobii.com",
             "anontext.com",
-            "anonymise.us",
             "anonymitynetwork.com",
             "anonymizer.com",
             "anonymouse.org",
@@ -1907,6 +1906,7 @@ var rules = [
             "gamez.com.tw",
             "gamousa.com",
             "ganges.com",
+            "ganjingworld.com",
             "gaoming.net",
             "gaopi.net",
             "gaozhisheng.net",
@@ -4074,6 +4074,7 @@ var rules = [
             "procopytips.com",
             "project-syndicate.org",
             "prosiben.de",
+            "proton.me",
             "protonvpn.com",
             "provideocoalition.com",
             "provpnaccounts.com",
