@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-08-14 16:21:11
+ * GFWList Last-Modified: 2022-08-16 15:38:52
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -3893,6 +3893,7 @@ var rules = [
             "pastebin.com",
             "pastie.org",
             "pathtosharepoint.com",
+            "patreon.com",
             "paxful.com",
             "pbs.org",
             "pbwiki.com",
