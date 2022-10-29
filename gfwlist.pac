@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-09-26 01:40:14
+ * GFWList Last-Modified: 2022-10-28 14:50:19
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -243,6 +243,7 @@ var rules = [
             "about.google",
             "aboutgfw.com",
             "abs.edu",
+            "acast.com",
             "accim.org",
             "accountkit.com",
             "aceros-de-hispania.com",
@@ -686,6 +687,7 @@ var rules = [
             "blueangellive.com",
             "bmfinn.com",
             "bnews.co",
+            "bnext.com.tw",
             "bnn.co",
             "bnrmetal.com",
             "boardreader.com",
@@ -1729,6 +1731,7 @@ var rules = [
             "firetweet.io",
             "firstfivefollowers.com",
             "firstpost.com",
+            "firstrade.com",
             "fizzik.com",
             "flagsonline.it",
             "flecheinthepeche.fr",
