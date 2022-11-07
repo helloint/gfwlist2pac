@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-10-30 02:47:21
+ * GFWList Last-Modified: 2022-11-05 19:00:57
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -2558,6 +2558,7 @@ var rules = [
             "hornygamer.com",
             "hornytrip.com",
             "horrorporn.com",
+            "hostloc.com",
             "hotair.com",
             "hotav.tv",
             "hotels.cn",
@@ -4284,6 +4285,7 @@ var rules = [
             "rixcloud.com",
             "rixcloud.us",
             "rlwlw.com",
+            "rmbl.ws",
             "rmjdw.com",
             "rmjdw132.info",
             "roadshow.hk",
@@ -4316,6 +4318,7 @@ var rules = [
             "ruanyifeng.com",
             "rukor.org",
             "rule34.xxx",
+            "rumble.com",
             "runbtx.com",
             "rushbee.com",
             "rusvpn.com",
