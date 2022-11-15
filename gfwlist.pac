@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-11-05 19:00:57
+ * GFWList Last-Modified: 2022-11-14 05:20:44
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -751,6 +751,7 @@ var rules = [
             "btc98.com",
             "btcbank.bank",
             "btctrade.im",
+            "btdig.com",
             "btdigg.org",
             "btku.me",
             "btku.org",
@@ -758,7 +759,6 @@ var rules = [
             "btsynckeys.com",
             "budaedu.org",
             "buddhanet.com.tw",
-            "buddhistchannel.tv",
             "buffered.com",
             "bullguard.com",
             "bullog.org",
@@ -3815,6 +3815,7 @@ var rules = [
             "openleaks.org",
             "opensea.io",
             "opensource.google",
+            "openstreetmap.org",
             "opentech.fund",
             "openvpn.net",
             "openvpn.org",
