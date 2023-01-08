@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-11-14 05:20:44
+ * GFWList Last-Modified: 2023-01-08 00:54:27
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -525,6 +525,7 @@ var rules = [
             "baijie.org",
             "bailandaily.com",
             "baixing.me",
+            "baizhi.org",
             "bakgeekhome.tk",
             "banana-vpn.com",
             "band.us",
@@ -1911,6 +1912,7 @@ var rules = [
             "gamez.com.tw",
             "gamousa.com",
             "ganges.com",
+            "ganjing.com",
             "ganjingworld.com",
             "gaoming.net",
             "gaopi.net",
