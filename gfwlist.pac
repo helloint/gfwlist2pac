@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2023-02-08 04:34:51
+ * GFWList Last-Modified: 2023-03-01 03:50:34
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -275,6 +275,7 @@ var rules = [
             "advertfan.com",
             "advertisercommunity.com",
             "ae.org",
+            "aei.org",
             "aenhancers.com",
             "aex.com",
             "af.mil",
