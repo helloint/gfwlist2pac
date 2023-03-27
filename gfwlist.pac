@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2023-03-01 03:50:34
+ * GFWList Last-Modified: 2023-03-26 13:35:48
  */
 
 var proxy = 'PROXY 172.16.0.33:1080; PROXY 172.16.0.33:4780; DIRECT';
@@ -382,6 +382,7 @@ var rules = [
             "aniscartujo.com",
             "annatam.com",
             "anobii.com",
+            "anonfiles.com",
             "anontext.com",
             "anonymitynetwork.com",
             "anonymizer.com",
@@ -1047,6 +1048,7 @@ var rules = [
             "cloudcone.com",
             "cloudflare-ipfs.com",
             "cloudfront.net",
+            "cloudfunctions.net",
             "club1069.com",
             "clubhouseapi.com",
             "clyp.it",
@@ -2825,6 +2827,7 @@ var rules = [
             "italiatibet.org",
             "itasoftware.com",
             "itemdb.com",
+            "itemfix.com",
             "ithome.com.tw",
             "itsaol.com",
             "itshidden.com",
@@ -3080,6 +3083,7 @@ var rules = [
             "le-vpn.com",
             "leafyvpn.net",
             "lecloud.net",
+            "ledger.com",
             "leeao.com.cn",
             "lefora.com",
             "left21.hk",
@@ -3790,6 +3794,7 @@ var rules = [
             "okx.com",
             "olabloga.pl",
             "old-cat.net",
+            "olehdtv.com",
             "olevod.com",
             "olumpo.com",
             "olympicwatch.org",
